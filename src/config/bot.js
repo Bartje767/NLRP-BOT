@@ -23,9 +23,9 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "Emergency Hamburg", // required by Discord API, not shown in the client
+        name: "2tynuv10", // required by Discord API, not shown in the client
         state: "discord:.gg/s8jaAccNcF server code: 2tynuv10",     // this is what people actually see
-        type: 0,               // Custom
+        type: 4,               // Custom
       },
     ],
   },
