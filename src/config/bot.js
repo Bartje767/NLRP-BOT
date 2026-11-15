@@ -23,9 +23,8 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "state", // required by Discord API, not shown in the client
-        state: "JOIN NU",     // this is what people actually see
-        type: 4,               // Custom
+        name: "Nederland Roleplay EHM code: 2tynuv10 discord in bio", // required by Discord API, not shown in the client
+        type: 0,               // Custom
       },
     ],
   },
